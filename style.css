@@ -1,0 +1,26 @@
+body{
+    background-image: url(/new-year-new-me-main/images/banner/banner2.png);
+    background-size: 1400px;
+    background-repeat: no-repeat;
+}
+.title{
+   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+   font-size: 100px;
+   padding-left: 600px;
+   text-align: right;
+}
+.title-2{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    
+    padding-left: 600px;
+    text-align: right;
+}
+.btn{
+    height: 60px;
+    width: 100px;
+    margin-left: 1170px;
+    border-radius: 6px;
+    border: none;
+    background-color: #F15B22;
+    color: white;
+}
