@@ -24,3 +24,13 @@ body{
     background-color: #F15B22;
     color: white;
 }
+.iamges{
+    height: 790px;
+    margin-top: 200px;
+}
+.title-3{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 60px;
+    padding-left: 600px;
+    margin-top: -800px;
+}
