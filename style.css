@@ -51,3 +51,61 @@ body{
     margin-top: 100px;
 
 }
+.imga{
+    margin-left: 60px;
+    
+    
+}
+.img-1{
+    margin-left: 290px;
+}
+.img-2{
+    margin-left: 270px;
+}
+.img-3{
+    margin-left: 260px;
+}
+.list-1{
+    list-style: none;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: larger;
+    display: flex;
+    justify-content: space-between;
+}
+.list-2{
+    list-style: none;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    display: flex;
+    
+}
+.back{
+    background-image: url(new-year-new-me-main/images/watch.png);
+    background-repeat: no-repeat;
+    margin-left: 60px;
+}
+.title-8{
+    padding-left: 310px;
+}
+.title-9{
+    padding-left: 270px;
+}
+.title-10{
+    padding-left: 250px;
+}
+.title-11{
+color: white;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+padding-left: 30px;
+padding-top: 60px;
+}
+footer{
+    background-color: black;
+}
+.end{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: large;
+    color: white;
+    padding-left: 90px;
+}
+
+
